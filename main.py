@@ -3,7 +3,7 @@ import os
 import importlib.util
 
 # আপনার বটের টোকেন
-TOKEN = "8267787403:AAFnvcYUUoHcRkoJnGSBLNCf9wMwVS_rUFQ"
+TOKEN = "8659006992:AAEusDsbeQhZCzrMGu-Jq5LvXgQob4Udhuw"
 bot = telebot.TeleBot(TOKEN)
 
 # মডিউল লোড করার ফাংশন
